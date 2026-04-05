@@ -120,7 +120,7 @@ Start for free at https://dataforb2b.ai
 DataForB2B is a people and company search API built for sales, recruiting, and AI teams. One API for all B2B data — 60+ people filters, 50+ company filters, real-time enrichment, verified emails, and agentic search.
 
 - Website: https://dataforb2b.ai
-- LinkedIn: https://www.linkedin.com/company/dataforb2b
+- LinkedIn: [https://www.linkedin.com/company/dataforb2b](https://www.linkedin.com/company/data-for-b2b/ )
 - Contact: https://dataforb2b.ai/contact
 
 ---
