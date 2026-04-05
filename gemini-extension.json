@@ -1,16 +1,14 @@
 {
   "name": "dataforb2b",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "description": "Live B2B people & company search, profile enrichment, email finder — 70+ filters, sourced in real time across 60+ public sources.",
+  "contextFileName": "GEMINI.md",
   "mcpServers": {
     "dataforb2b": {
       "httpUrl": "https://mcp.dataforb2b.ai/mcp",
       "timeout": 30000,
-      "authProviderType": "dynamic_discovery",
-      "oauth": {
-        "authorizationUrl": "https://mcp.dataforb2b.ai/authorize",
-        "tokenUrl": "https://mcp.dataforb2b.ai/token",
-        "clientId": "gemini-cli",
-        "scopes": ["mcp:tools"]
+      "headers": {
+        "Authorization": "Bearer ${DATAFORB2B_API_KEY}"
       },
       "includeTools": [
         "search_natural_language",
