@@ -1,0 +1,8 @@
+{
+  "name": "dataforb2b-gemini-cli-extension",
+  "version": "1.0.0",
+  "description": "Gemini CLI extension for DataForB2B — live B2B people & company search, profile enrichment, and email finder.",
+  "keywords": ["gemini-cli-extension", "b2b", "sales", "prospecting", "leads", "enrichment", "mcp"],
+  "homepage": "https://dataforb2b.ai",
+  "license": "MIT"
+}
