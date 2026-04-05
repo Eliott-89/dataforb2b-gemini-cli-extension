@@ -1,0 +1,24 @@
+{
+  "name": "dataforb2b",
+  "version": "1.0.0",
+  "mcpServers": {
+    "dataforb2b": {
+      "httpUrl": "https://mcp.dataforb2b.ai/mcp",
+      "timeout": 30000,
+      "authProviderType": "dynamic_discovery",
+      "oauth": {
+        "authorizationUrl": "https://mcp.dataforb2b.ai/authorize",
+        "tokenUrl": "https://mcp.dataforb2b.ai/token",
+        "clientId": "gemini-cli",
+        "scopes": ["mcp:tools"]
+      },
+      "includeTools": [
+        "search_natural_language",
+        "enrich_profile",
+        "enrich_company",
+        "search_lookalike",
+        "find_email"
+      ]
+    }
+  }
+}
