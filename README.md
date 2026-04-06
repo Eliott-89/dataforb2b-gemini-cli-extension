@@ -10,8 +10,11 @@
 
 Use cases:
  **Sales teams** find and enrich high-quality leads that match your ICP
+ 
  **Recruiters** source candidates by job title, skills, location, experience, and more
+ 
  **AI builders** power your AI agents with real-time B2B data
+ 
  **Investors** identify founders and companies with specific funding stages and track records
 
 This Gemini CLI extension brings all of DataForB2B's capabilities directly into your terminal no code required.
