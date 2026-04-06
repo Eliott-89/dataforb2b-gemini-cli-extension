@@ -75,13 +75,6 @@ Examples:
 - Find companies similar to Notion
 - Find people similar to this profile URL
 
-### find_email
-Find a **verified professional email** from a name and company.
-
-Example: Find the work email of John Smith at Stripe
-
-Returns verified email with 98% accuracy, sourced in real time.
-
 ---
 
 ## Example Prompts
