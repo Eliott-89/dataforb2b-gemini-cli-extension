@@ -82,7 +82,6 @@ Examples:
 - Find VP of Sales at B2B SaaS companies with 50-200 employees in the US
 - Get me the decision makers at OpenAI CEO, CTO, CRO
 - Find funded startups in Paris in the AI space, less than 3 years old
-- Enrich this profile and find their email: https://dataforb2b.ai
 - Find 10 companies similar to Salesforce but smaller (under 500 employees)
 - Who are the top recruiters at Google in the UK?
 
